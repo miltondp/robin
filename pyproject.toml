@@ -28,6 +28,7 @@ dependencies = [
     "pandas>=2",  # Pin to keep recent
     "pydantic>=2",  # Pin to keep recent
     "tqdm",
+    "jupyterlab",
 ]
 description = "Multi-agent system for therapeutics development"
 dynamic = ["version"]
